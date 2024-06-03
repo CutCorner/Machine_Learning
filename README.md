@@ -31,7 +31,7 @@ Based on our exploration, we will implement a machine learning model to our prod
 
 # Link
 - Google Colab Location Based Recomendation System (https://colab.research.google.com/drive/197vEDV6UoWYb3qcIWfmF6ZCORjEU5dqF?usp=sharing)
-- Google Colab Face Shape Detection (https://colab.research.google.com/drive/1kGx-26wObTcA3fiecG3RwECdaM1pCGSP?usp=sharing)
+- Google Colab Face Shape Detection ([click here](https://colab.research.google.com/drive/1SAgTglBHLBVBUbmkOwbnyD_dlcuf2dJO?usp=sharing))
 
 # Repository
 - FaceShape [click here](https://github.com/CutCorner/ML_Face-Shape)
